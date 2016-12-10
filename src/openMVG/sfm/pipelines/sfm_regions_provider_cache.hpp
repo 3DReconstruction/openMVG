@@ -13,7 +13,6 @@
 #include <chrono>
 #include <thread>
 #include <mutex>
-#include <atomic>
 
 namespace openMVG {
 namespace sfm {
